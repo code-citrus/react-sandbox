@@ -1,0 +1,15 @@
+{
+  "name": "react-sandbox",
+  "version": "1.0.0",
+  "description": "Simple react sandbox. No frameworks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gautham",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
